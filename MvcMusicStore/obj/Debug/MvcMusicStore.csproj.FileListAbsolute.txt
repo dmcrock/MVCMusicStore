@@ -1,0 +1,7 @@
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+c:\users\dclelland.lastergroup\documents\visual studio 11\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
